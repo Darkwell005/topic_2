@@ -1,10 +1,5 @@
-print('Python is an''\n'
-      '\tinterpreted,''\n'
-      '\thigh-level,''\n'
-       '\tgeneral-purpose''\n'
+print('Python is an\n\t'
+      'interpreted,\n\t'
+      'high-level,\n\t'
+      'general-purpose\n'
       'programming language.')
-
-
-
-
-
